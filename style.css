@@ -1,0 +1,64 @@
+main{
+
+    background-image: url(image/NX7PC.jpg);
+    color: whitesmoke;
+    padding: 220px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+   
+
+    
+}
+
+header{
+  background-color: WhiteSmoke;  
+ 
+  
+}
+footer{
+    background-color: WhiteSmoke;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    padding: 10px;
+    margin-top: 20px;
+   
+}
+
+#form{
+    position: absolute;
+    padding: 50px;
+    margin-right: 40px;
+    
+
+}
+
+#parent{
+    position: relative;
+    margin-left: 30px;
+    padding: 40px;
+    background-color:  rgba(211, 211, 211, 0.548);
+
+}
+table th{
+    border: 1px solid black;
+    width: 20%;
+    background-color:rgb(39, 39, 39);
+    font-family: 'Courgette', cursive;;
+}
+
+table td{
+    border: 1px solid black;
+    width: 20%;
+    background-color: rgb(78, 78, 78);
+}
+#submit{
+    border-radius: 20px;
+    background-color:rgb(39, 39, 39);
+    color: whitesmoke;
+    margin-top: 60px;
+    font-family:'Courgette', cursive; ;
+}
+
+
+
